@@ -6,7 +6,7 @@ These vocabularies are presented as [Simple Knowledge Organization System (SKOS)
 
 ## License & Rights
 
-&copy; Commonwealth of Australia (Department of Agriculture, Forestry and Fisheries), 2023
+&copy; Commonwealth of Australia (Department of Agriculture, Fisheries and Forestry), 2023
 
 The contents of this repository are licensed for reuse using the [Creative Commons 4.0 license](https://creativecommons.org/licenses/by/4.0/), a copy of the deed of which is in this repository in the LICENSE file.
 
