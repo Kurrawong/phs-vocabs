@@ -238,7 +238,7 @@ traps:
     rdfs:isDefinedBy  traps: ;
     skos:inScheme  traps: ;
     skos:broader :panel ; 
-    phs:catchesPest pest:sawyer-beetle ;
+    phs:catchesPest pest:sawyer-beetle, pest:bmsb ;
 .
 
 :tall-black-pyramid
